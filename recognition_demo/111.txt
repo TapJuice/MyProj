@@ -1,0 +1,1 @@
+python3 activity_recognition_demo.py -m resnet-34_kinetics.onnx -c action_recognition_kinetics.txt -i videos/test.mp4
